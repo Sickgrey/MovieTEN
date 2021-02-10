@@ -10,3 +10,5 @@ ___
   * **Favorite** - contains favorite movies that the user has added
 ___
 Used stack - Retrofit, RxJava, Room, Gson, Picasso
+___
+
