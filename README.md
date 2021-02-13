@@ -13,4 +13,4 @@ Used stack - Retrofit, RxJava, Room, Gson, Picasso
 ___
 ### Watching trailer on YouTube 
 
-<img src="https://github.com/Sickgrey/MovieTEN/blob/master/app/gifs/trailer.gif" width="400" height="800"/>
+<img src="https://github.com/Sickgrey/MovieTEN/blob/master/app/gifs/trailer.gif" width="300" height="600"/>
